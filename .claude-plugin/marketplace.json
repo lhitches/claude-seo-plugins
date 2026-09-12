@@ -1,0 +1,16 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "lhitches",
+  "description": "Claude Code plugins for SEO by Lawrence Hitches. One repo per plugin; this marketplace is the index. Full list with install lines: https://www.lawrencehitches.com/claude-seo-plugins/",
+  "owner": { "name": "Lawrence Hitches", "url": "https://www.lawrencehitches.com/#person" },
+  "plugins": [
+    {
+      "name": "seo-page-design",
+      "description": "Design and gate a web page before it ships: /page-design nine-layer spec, /line-edit and /copy-audit non-destructive flag tables. No API keys.",
+      "author": { "name": "Lawrence Hitches", "url": "https://www.lawrencehitches.com/#person" },
+      "category": "seo",
+      "homepage": "https://www.lawrencehitches.com/claude-seo-plugins/",
+      "source": { "source": "github", "repo": "lhitches/seo-page-design" }
+    }
+  ]
+}
