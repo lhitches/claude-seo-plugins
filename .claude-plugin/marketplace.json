@@ -22,6 +22,76 @@
       }
     },
     {
+      "name": "internal-linking",
+      "description": "Internal linking strategy and execution: anchor variety rules from the 23-million-link study, authority flow, source-page ranking, body-link ceiling, audit checklist. /internal-links. No API keys.",
+      "author": {
+        "name": "Lawrence Hitches",
+        "url": "https://www.lawrencehitches.com/#person"
+      },
+      "category": "seo",
+      "homepage": "https://www.lawrencehitches.com/claude-seo-plugins/",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/lhitches/internal-linking.git"
+      }
+    },
+    {
+      "name": "query-templates",
+      "description": "The second axis of topical authority: extract the query patterns a site already ranks for from its Search Console export, decide page or heading per variation, spec the answer template, plan a paced build. /query-templates. No API keys.",
+      "author": {
+        "name": "Lawrence Hitches",
+        "url": "https://www.lawrencehitches.com/#person"
+      },
+      "category": "seo",
+      "homepage": "https://www.lawrencehitches.com/claude-seo-plugins/",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/lhitches/query-templates.git"
+      }
+    },
+    {
+      "name": "schema-specialist",
+      "description": "Schema.org JSON-LD for SEO and AI citation: entity graph by @id, type atlas, cross-domain sameAs, starters, validation, site-wide sweep. /schema. No API keys.",
+      "author": {
+        "name": "Lawrence Hitches",
+        "url": "https://www.lawrencehitches.com/#person"
+      },
+      "category": "seo",
+      "homepage": "https://www.lawrencehitches.com/claude-seo-plugins/",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/lhitches/schema-specialist.git"
+      }
+    },
+    {
+      "name": "seo-boardroom",
+      "description": "Five adversarial SEO advisors plus a Chair pressure-test an idea and return SHIP, FIX FIRST or KILL with one next step. /seo-boardroom. No API keys.",
+      "author": {
+        "name": "Lawrence Hitches",
+        "url": "https://www.lawrencehitches.com/#person"
+      },
+      "category": "seo",
+      "homepage": "https://www.lawrencehitches.com/claude-seo-plugins/",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/lhitches/seo-boardroom.git"
+      }
+    },
+    {
+      "name": "reddit-extract",
+      "description": "Buyer-voice extraction from Reddit threads via the .json mechanic: questions, objections, comparisons, frustrations, phrasings, angles. /reddit-extract. No API key.",
+      "author": {
+        "name": "Lawrence Hitches",
+        "url": "https://www.lawrencehitches.com/#person"
+      },
+      "category": "seo",
+      "homepage": "https://www.lawrencehitches.com/claude-seo-plugins/",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/lhitches/reddit-extract.git"
+      }
+    },
+    {
       "name": "hawk-seo-skills",
       "description": "Eight SEO skills for Claude Code from Hawk Academy: AI visibility, competitor gap, striking distance, content decay, technical audit, topical authority, Google trust, content briefs. No API keys.",
       "author": {
