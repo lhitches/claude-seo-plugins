@@ -17,8 +17,8 @@
       "category": "seo",
       "homepage": "https://www.lawrencehitches.com/claude-seo-plugins/",
       "source": {
-        "source": "github",
-        "repo": "lhitches/seo-page-design"
+        "source": "url",
+        "url": "https://github.com/lhitches/seo-page-design.git"
       }
     },
     {
@@ -31,8 +31,8 @@
       "category": "seo",
       "homepage": "https://github.com/lhitches/hawk-seo-skills",
       "source": {
-        "source": "github",
-        "repo": "lhitches/hawk-seo-skills"
+        "source": "url",
+        "url": "https://github.com/lhitches/hawk-seo-skills.git"
       }
     },
     {
@@ -45,8 +45,8 @@
       "category": "seo",
       "homepage": "https://github.com/lhitches/google-trends-mcp",
       "source": {
-        "source": "github",
-        "repo": "lhitches/google-trends-mcp"
+        "source": "url",
+        "url": "https://github.com/lhitches/google-trends-mcp.git"
       }
     }
   ]
